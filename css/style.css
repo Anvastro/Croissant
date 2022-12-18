@@ -7,10 +7,10 @@ h1 {
 }
 a {
   color: olive;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 p {
   text-align: center;
